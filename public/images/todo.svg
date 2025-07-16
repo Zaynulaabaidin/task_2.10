@@ -1,0 +1,8 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="8" y="16" width="48" height="40" rx="8" fill="#F4F4F4" stroke="#333" stroke-width="2"/>
+  <rect x="16" y="24" width="32" height="8" rx="2" fill="#FFD700"/>
+  <rect x="16" y="36" width="32" height="8" rx="2" fill="#90EE90"/>
+  <rect x="16" y="48" width="20" height="4" rx="2" fill="#ADD8E6"/>
+  <circle cx="52" cy="50" r="4" fill="#FF6347"/>
+  <text x="32" y="14" text-anchor="middle" font-size="10" fill="#333">TODO</text>
+</svg>
